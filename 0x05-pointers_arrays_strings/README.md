@@ -1,6 +1,6 @@
 C - pointers, arrays and strings
 
-0 - Writes a function that takes a pointer to an int as paramerter and updates the value it points to 98
+0 - Writes a function that takes a pointer to an int as paramerter and updates the value it points to 98.
 
 1 - Write a function that swaps the value of the integers.
 
